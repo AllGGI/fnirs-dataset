@@ -133,3 +133,11 @@ Dataset link: <https://doi.org/10.17026/dans-xrk-hnhb>
 Dataset citation format: Hudak, J.P. (University of Tübingen) (2017): Functional near-infrared spectroscopy Neurofeedback in ADHD. DANS.<https://doi.org/10.17026/dans-xrk-hnhb>
 
 
+
+**13. Günther Bauernfeind 2014,fNIRS – BCI mental arithmetic(003-2014)**
+
+BCI classification data of eight adults performing mental arithmetic tasks. Detailed information can be found in the PDF documentation.
+
+Dataset link: <http://bnci-horizon-2020.eu/database/data-sets>
+
+Note: This link contains multiple BCI - EEG datasets and the third dataset is an fNIRS dataset.
